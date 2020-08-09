@@ -153,17 +153,18 @@ would you like?
 
 
 #15:
-I shall give
-magic
-for 200 Golds.
+Mi instruu al vi
+la arton de
+magio kontraŭ
+200 orpecoj.
 
 ===
 
 
 #16:
-Watch your
-remaining
-power level.
+ĉiam kontrolu
+vian restan
+potencon.
 
 ===
 
@@ -185,10 +186,10 @@ much on magic.
 
 
 #19:
-Do you want
-a martial art
-lesson
-for 200 Golds?
+ĉu vi volas
+lecionon de la
+arto de batalo
+po 200 orpecoj?
 
 ===
 
@@ -201,8 +202,8 @@ a treatment?
 
 
 #1B:
-Don't try
-too hard.
+Ne trolaboru
+vin.
 
 ===
 
@@ -315,54 +316,52 @@ kvankam vi
 ===
 
 #28
-Iru orienten
-kaj vi trovos
-la urbeto de
-Apolune.
+Se vi iras
+orienten, vi
+trovos la urbeto
+de Apolune.
 
 ===
 
 #29
 Estas signo de
 "Jack" apud la
-ŝlosiltruo. ???
+ŝlosiltruo.# ???
 
 ===
 
 #2a
 Ĉi tie estas la
-elfa urbeto
-Eolis./
+elfa urbo Eolis./
 Ĝi situas ĉe la
 fundo de la
 mondarbo/
 kaj estas la 
 hejmo de la
 elfoj./
-Vizitu la 
-Guru-on antaŭ
+Vizitu la pastro
+antaŭ ol
 renkonti la
 reĝon.
 
 ===
 
 #2b
-Ie ekstere,
+Ie ekstere
 ekzistas pli da
-ringoj,/ kiuj
-helpos vin dum
-via vojaĝo./
+ringoj,/
+kiuj helpos vin
+dum via vojaĝo./
 Serĉu ilin,
-unu post la
-alia.
+unu po unu.
 
 ===
 
 #2c
 Se vi volas
-viziti la 
+viziti la
 reĝon, prenu
-tiun ringon./
+ĉi tiun ringon./
 Ĝi identigi vin
 kiel unu el ni./
 Ne perdu ĝin.
@@ -371,7 +370,7 @@ Ne perdu ĝin.
 
 #2d
 Vizitu ĉiuj
-Guru-oj laŭ via
+pastroj laŭ via
 vojaĝo./
 Ili donos al vi
 honoran rangon
@@ -380,9 +379,10 @@ laŭ via sperto.
 ===
 
 #2e
-La lasta
-puto preskaŭ
-tute sekiĝas.#???
+La lasta el niaj
+putoj jam estas
+preskaŭ tute
+seka.
 
 ===
 
@@ -394,12 +394,12 @@ Forepaw.
 ===
 
 #30
-La nanoj jam
+La Nanoj jam
 eniris la
 urbeton./
 ŝajnas ke la
 fino estas
-proksime.
+proksima.
 
 ===
 
@@ -407,7 +407,7 @@ proksime.
 ĉu vi havas ion
 por batali
 kontraŭ la
-nanojn?
+Nanoj?
 
 ===
 
@@ -429,89 +429,99 @@ Bonan vojaĝon!
 ===
 
 #35:
-Glad you could
-come.
-Disaster has
-befallen us./
-The Elf
-fountain water,
-our life source,
-has stopped./
-The wells are
-drying up./
-Many men went
-out and nobody
-came back./
-You are our last
-hope.
-I shall give you
-1500 Golds./
-Prepare
-for your journey
-with this money./
-It will be a
-dangerous
-journey./
-Take care
-of yourself.
+Mi ĝojas ĉar
+vi povis veni.
+La katastrofo 
+atingis nin./
+Meteoroido tra-
+fis la mondarbon
+kaj kaŭzis
+grandan ĥaoson./
+La Nanoj el la
+montoj frenez-
+iĝis, mutaciis,/
+kaj ekatakis la
+elfojn./
+Mutaciintaj
+nanoj jam
+alvenis en
+Eolis./
+Tiom da viroj
+jam iris for,
+por defendi kon-
+traŭ ilin,/
+sed neniu
+revenis. Vi 
+estas nia lasta
+espero./
+Mi aldonu al vi
+1500 orpecojn
+por prepari vian
+vojaĝon./
+Estos longa kaj
+danĝera vojaĝo.
+Bonvolu zorgi
+pri vi.
 
 ===
 
 
 #36:
-There is nothing
-more I can do to
-help you./
-Looking forward
-to good news.
+Estas nenio
+alia, kiu mi
+povas fari por
+helpi vin./
+Mi atendas
+bonajn novaĵojn.
 
 ===
 
 
 #37:
-The Dwarfs
-are robbing
-the Elves' money
-and jewelry.
+La Nanoj rabas
+de la Elfoj
+monon kaj
+juvelojn.
 
 ===
 
 
 #38:
-A meteorite fell
-into the World
-Tree and
-created havoc./
-At the end of
-the confusion,/
-the Dwarfs of
-the underworld
-came up/
-and attacked
-the Elves.
-Nobody knows
-the reason.
+Post kiam la
+meteoroido tra-
+fis la mond-
+arbon/
+ĉesis la akvo
+de la Elfa 
+fonto, fonto
+de nia vivo./
+Preskaŭ ĉiuj
+de niaj putoj
+jam sekiĝis./
+Neniu scias
+kial tion
+okazis.
 
 ===
 
-
 #39:
-Listen to
-people./
-You'll only get
-frustrated
-if you just walk
-around.
+Aŭskultu homojn.
+Vi nur frustri-
+ĝus, se vi nur
+ĉirkaŭkurus.
 
 ===
 
 
 #3A:
-Don't try
-too hard.
+Ne trolaboru
+vin.
 
 ===
 
+#################################################
+######              APOLUNE               #######
+#################################################
 
 #3B:
 Welcome to the
