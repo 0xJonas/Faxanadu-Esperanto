@@ -524,77 +524,79 @@ vin.
 #################################################
 
 #3B:
-Welcome to the
-town of Apolune.
+Bonvenon al la
+urbeto Apolune.
 
 ===
 
 
 #3C:
-There is the
-town of Forepaw
-ahead of you.
+Antaŭen troviĝas
+la urbeto
+Forepaw.
 
 ===
 
 
 #3D:
-There are Dwarfs
-all over in the
-Tower of Trunk./
-Go out of town,
-turn right and
-go straight,/
-then you'll find
-the Tower
-of Trunk.
+Estas Nanoj ĉie
+en la Turo de 
+Trunko./
+Por trovi la
+Turo, eliru la
+urbeton 
+orienten/
+kaj marsu rekte
+antaŭen.
 
 ===
 
 
 #3E:
-Good luck.
+Bonan ŝancon!
 
 ===
 
 
 #3F:
-You should have
-a shield. It'll
-protect you from
-Dwarf attacks.
+Vi havu ŝildon.
+ĝi ŝirmos vin 
+kontraŭ Nanaj
+sorĉadoj.
 
 ===
 
 
 #40:
-The Mattock
-should be in the
-Tower./
-You can get it
-by defeating a
-Dwarf.
+Pikpioĉo estas
+en la Turo de
+Trunko./
+Vi nur povas 
+akiri ĝin post
+kiam vi venkas
+la Nanon tie.
 
 ===
 
 
 #41:
-We blocked the
-passage to the
-next town by
-building a wall,/
-but the Dwarfs
-keep coming.
+Ni baris la vo-
+jon al la sekva
+urbeto per kons-
+trui muron,/
+sed la Nanoj
+daŭrigas veni
+ĉi tien.
 
 ===
 
 
 #42:
-If you have the
-Mattock,you can
-break the wall,/
-but if you don't
-have it...
+Se vi havus la
+pikpioĉon, vi
+rajtus rompi la### rompi?
+muron, sed se vi
+ne havas ĝin...
 
 ===
 
@@ -665,6 +667,9 @@ Choose well.
 
 ===
 
+######################################################
+###############       Forepaw        #################
+######################################################
 
 #4A:
 This is the town
