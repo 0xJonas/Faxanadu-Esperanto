@@ -594,7 +594,7 @@ daŭrigas veni
 #42:
 Se vi havus la
 pikpioĉon, vi
-rajtus rompi la### rompi?
+rajtus detrui la
 muron, sed se vi
 ne havas ĝin...
 
@@ -615,55 +615,59 @@ different key.
 
 
 #45:
-Are you hurt?
-Our doctor
-can help.
+Ĉu io doloras
+vin? Nia kura-
+cisto povas
+helpi.
 
 ===
 
 
 #46:
-Watch out for
-the jar of
-poison./
-The poison will
-take your energy
-away.
+Atentu la flako-
+non de veneno./
+La veneno for-
+prenos vian
+vivforton.
 
 ===
 
 
 #47:
-Did you learn
-the Guru's
-mantra?/
-The mantra will
-return you to
-this world./
-Hold on to the
-mantra.
+Ĉu vi parkeris
+la mantron de
+la pastro?/
+La mantro reve-
+nigos vin al ĉi
+tiun mondon./
+Certigu vin, ke
+vi tenos la
+mantron.
 
 ===
 
 
 #48:
-There is a
-secret Guru in
-the Tower of
-Fortress./
-You'll find
-important infor-
-mation and
-a key there.
+Estas sekreta
+pastro en la
+Turo de
+Fortreso./
+Vi trovos gra
+vajn informa-
+ciojn tie, kaj
+ankaŭ ŝlosilon.
 
 ===
 
 
 #49:
-You can carry 8
-items. They are
-all important.
-Choose well.
+Vi povas porti 8
+objektojn. Ĉiuj
+el ili povas
+esti grava./
+Elektu ilin
+bone.
+
 
 ===
 
@@ -672,39 +676,41 @@ Choose well.
 ######################################################
 
 #4A:
-This is the town
-of Forepaw.
+Ĉi tio estas
+Forepaw.
 
 ===
 
 
 #4B:
-If the fountain
-flows,water will
-come back to the
-town.
+Se la fonto ree
+fluos, akvon la
+urbeto ree
+havos.
+
 
 ===
 
 
 #4C:
-Water from 3
-springs flows
-into the
-fountain./
-Find the 3
-springs and
-return the water
-to the fountain.
+Akvo el tri
+kaŝitaj fontoj
+fluu en la
+puton./
+Bonvolu trovi la
+tri fontojn/
+kaj revenigi la
+akvon al la
+puton.
 
 ===
 
 
 #4D:
-Water is flowing
-in our fountain.
-Thanks to
-your help.
+Akvo denove
+fluas en nian
+puton. Dankon
+por via helpo!
 
 ===
 
@@ -939,6 +945,10 @@ to rescue
 this world.
 
 ===
+
+######################################################
+###############        Mascon        #################
+######################################################
 
 
 #60:
