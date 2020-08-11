@@ -594,7 +594,7 @@ daŭrigas veni
 #42:
 Se vi havus la
 pikpioĉon, vi
-rajtus detrui la
+licus detrui la
 muron, sed se vi
 ne havas ĝin...
 
@@ -716,84 +716,77 @@ por via helpo!
 
 
 #4E:
-I hear
-quite often
-about a fountain
-in the sky./
-When you go down
-from the town,/
-you'll come to a
-place where the
-sky opens above./
-They say a
-fountain is up
-in the sky,/
-but you need
-Wing Boots...
+Mi aŭdis iom
+ofte pri fonto
+en la ĉielo./
+Estas dirate, ke
+se vi iras mal-
+supren de la
+urbeto,/
+vi atingos lokon
+kie la ĉielo
+malfermas super
+vi./
+La fonto situu
+tie en la ĉielo,
+sed vi bezonas 
+flugantaj botoj.
 
 ===
 
 
 #4F:
-If you can push
-the rock away
-from the
-fountain,/
-you'll find the
-way to Mascon./
-But, you can't
-move it without
-the Ring of
-Ruby./
-The old man of
-the spring will
-have it.
-Ask him.
+Se vi povus puŝi
+la ŝtonon for de
+la puto,/
+vi trovus vojon
+al Mascon./
+Sed ĝi estas tro
+pezega por esti
+movata sen la 
+Ringo de Rubeno./
+La pastro ĉe la
+unua fonto tenas
+ĝin. Petu lin.
 
 ===
 
 
 #50:
-There is a
-spring
-in the tower of
-Fortress./
-You'll find the
-dried up
-fountain/
-and the entrance
-to the tower
-right above
-this town./
-So long.
+Estas fonto en
+la Turo de Fort-
+reso./
+Vi trovos nian
+sekan puton/
+kaj la enirejo
+de la Turo super
+ĉi tiu urbeto.
 
 ===
 
 
 #51:
-The Dwarf
-who lives
-in the tower
-has Wing boots./
-When you get
-them, look for
-a fountain
-in the sky.
+La Nano kiu
+loĝas en la Turo
+posedas flug-
+antajn botojn./
+Post kiam vi
+ekhavis ilin,
+serĉi la fonton
+en la ĉielo.
 
 ===
 
 
 #52:
-When you push
-the rock
-away from the
-fountain,/
-you'll find
-the passage
-to Mascon,/
-but you need
-the Ring
-of Ruby.
+Kiam vi puŝas la
+ŝtono for de la
+puto,/
+vi trovos la
+vojon al Mascon,/
+sed vi bezonas
+la Ringo de
+Rubeno.
 
 ===
 
@@ -806,53 +799,66 @@ Wing Boots.
 
 
 #54:
-Go below the
-blue sky. You'll
-find a fountain
-in the sky.
+Iru sub la blua
+ĉielo./
+Kiam vi rigardos
+supren, vi vidos
+la fonto en la
+ĉielo.
 
 ===
 
 
 #55:
-Use this key
-to open the door
-below./
-You'll find the
-first spring.
+Uzu ĉi tiun ŝlo-
+silon por mal-
+fermi la pordon
+sub la urbeto./
+Vi trovos la
+origina fonto.
 
 ===
 
 
 #56:
-If you don't
-have a Joker
-key,
-come back again.
+Se vi ne havas
+Joker-an ŝlo-
+silon, revenu
+tien.
 
 ===
 
 
 #57:
 Ho, ho, ho.
-I'll tell you
-about the water
-of the spring./
-.....
-.....
-Oops!
-..fallen asleep./
-The water was
-poisoned./
-The posion is
-almost gone so
-it's all right
-to wake him up./
-Watch.
-..... .....
-Something is
-wrong.../
-Oops!
+Lasu min diri al
+vi pri la akvo
+de ĉi tiu fonto./
+...../
+...../
+...../
+.....zzZZ/
+Ho, pardonu min,
+ekdormis.../
+Veneno estis
+metita en la
+akvon./
+Ni dormigis la
+fonton por
+kuraci ĝin./
+Nun la veneno
+finfine preskaŭ
+malaperis,/
+do ni povas
+reveki ĝin.
+Rigardu!/
+....../
+....../
+....../
+......zzZZ/
+...Ho!
+Kio estas mal-
+ĝusta pri mi?
 
 ===
 
