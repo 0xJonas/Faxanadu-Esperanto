@@ -370,8 +370,8 @@ Ne perdu ĝin.
 
 #2d
 Vizitu ĉiuj
-pastroj laŭ via
-vojaĝo./
+pastroj laŭlonge
+de via vojaĝo./
 Ili donos al vi
 honoran rangon
 laŭ via sperto.
@@ -864,91 +864,100 @@ Kio estas mal-
 
 
 #58:
-Get the key from
-the Guri in the
-tower of
-Fortress and/
-search for the
-undiscovered
-first fountain.
+Ricevu la ŝlo-
+silon de la
+pastro en la
+Turo de Fortreso/
+kaj serĉu la
+nemalkovritan
+originan fonton.
 
 ===
 
 
 #59:
-You've done well
-to get here.
-This is the
-spring of Trunk./
-You need Elixir
-to revive the
-spring./
-Will you give me
-your medicine?
+Vi faris bone
+veni ĉi tien.
+Tie ĉi estas la
+Fonto de Trunko/
+sed ĝi estis
+venenita de la
+Nanoj./
+Ni bezonas 
+Eliksiro por
+revivi ĝin./
+Cxu vi donos al
+mi vian Elik-
+siron?
+
 
 ===
 
 
 #5A:
-This spring will
-flow again.
-There are
-two more./
-You'd better go
-and find them.
+La fonto de 
+Trunko ree
+fluos! Sed ek-
+zistas du pliajn
+fontojn./
+Trovu ilin 
+rapide!
 
 ===
 
 
 #5B:
-Come back with
-the medicine.
+Revenu kiel eble
+plej baldaŭ
+kiam vi ekhavis
+Eliksiron.
 
 ===
 
 
 #5C:
-As soon as water
-flows in the
-fountain,/
-go to Mascon and
-find the poison
-the Dwarfs hide,/
-otherwise the
-Elves will be
-destroyed.
+Tuj kiam la akvo
+fluas en la
+puton, vi iru al
+Mascon/
+kaj trovi la
+venenon, kiun la
+Nanoj kaŝas./
+Alie la Elfoj
+pereos.
+
 
 ===
 
 
 #5D:
-Thank you for
-coming./
-I will revive
-the spring
-right away.
+Dankon por veni.
+Mi ĵus nun
+revekos la
+fonton.
 
 ===
 
 
 #5E:
-I'll give you
-the Ring of
-Ruby./
-Now, push the
-rock away from
-the fountain.
+Mi donos al vi
+la Ringon de
+Rubeno./
+Nun, puŝu for
+la ŝtono sur
+la puto.
 
 ===
 
 
 #5F:
-Trust
-your power./
-You are the
-chosen warrior
-to rescue
-this world.
+Fidu al via
+potenco./
+Vi estas la
+batalanto/
+elektita por
+savi ĉi tiun
+mondon.
 
 ===
 
