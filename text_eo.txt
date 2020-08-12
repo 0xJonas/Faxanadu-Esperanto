@@ -468,7 +468,7 @@ pri vi.
 
 #36:
 Estas nenio
-alia, kiu mi
+alia, kiun mi
 povas fari por
 helpi vin./
 Mi atendas
@@ -493,7 +493,7 @@ fis la mond-
 arbon/
 ĉesis la akvo
 de la Elfa 
-fonto, fonto
+Puto, fonto
 de nia vivo./
 Preskaŭ ĉiuj
 de niaj putoj
@@ -546,7 +546,7 @@ Por trovi la
 Turo, eliru la
 urbeton 
 orienten/
-kaj marsu rekte
+kaj marŝu rekte
 antaŭen.
 
 ===
@@ -585,7 +585,7 @@ jon al la sekva
 urbeto per kons-
 trui muron,/
 sed la Nanoj
-daŭrigas veni
+daŭriĝas veni
 ĉi tien.
 
 ===
@@ -641,7 +641,7 @@ La mantro reve-
 nigos vin al ĉi
 tiun mondon./
 Certigu vin, ke
-vi tenos la
+vi tenas la
 mantron.
 
 ===
@@ -652,7 +652,7 @@ Estas sekreta
 pastro en la
 Turo de
 Fortreso./
-Vi trovos gra
+Vi trovos gra-
 vajn informa-
 ciojn tie, kaj
 ankaŭ ŝlosilon.
@@ -683,7 +683,7 @@ Forepaw.
 
 
 #4B:
-Se la fonto ree
+Se la fontoj ree
 fluos, akvon la
 urbeto ree
 havos.
@@ -746,8 +746,9 @@ pezega por esti
 movata sen la 
 Ringo de Rubeno./
 La pastro ĉe la
-unua fonto tenas
-ĝin. Petu lin.
+origina fonto
+tenas ĝin. Petu
+lin.
 
 ===
 
@@ -804,7 +805,10 @@ Iru sub la blua
 Kiam vi rigardos
 supren, vi vidos
 la fonto en la
-ĉielo.
+ĉielo./
+Reveni ĉi tien
+post kiam tiu
+fonto ree fluas.
 
 ===
 
@@ -886,7 +890,7 @@ Nanoj./
 Ni bezonas 
 Eliksiro por
 revivi ĝin./
-Cxu vi donos al
+Ĉu vi donos al
 mi vian Elik-
 siron?
 
@@ -968,8 +972,8 @@ mondon.
 
 #60:
 Kio kondukis vin
-ĉi tien?
-tiu ĉi estas la
+ĉi tien?/
+Tiu ĉi estas la
 nebula urbeto
 Mascon.
 
@@ -1044,7 +1048,7 @@ Preĝas al la
 meteorito en la
 Turo de 
 Suferado./
-Gxi troviĝas
+Ĝi troviĝas
 super pastro.
 Singardu!
 
@@ -1069,10 +1073,10 @@ Densa nebulo
 kovras la
 urbeton,/
 ekde la meteo-
-roido trafis la
+roido trafis
 ĝin./
 Eble iuj regio-
-noj ankoraŭ
+noj eĉ ankoraŭ
 brulas.
 
 ===
@@ -1147,7 +1151,7 @@ ke la Sablo-
 horloĝo ebligas
 vin moviĝi/
 dum la tempon
-haltigas.
+haltas.
 
 ===
 
