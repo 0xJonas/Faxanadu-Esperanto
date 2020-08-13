@@ -1171,94 +1171,95 @@ vi uzas ĝin.
 
 
 #70:
-Welcome to the
-Town of Victim./
-I have been
-unable to leave
-town.
+Bonvenon al
+Victim. Mi ne
+eblas forlasi
+la urbeton.
 
 ===
 
 
 #71:
-It is dangerous
-to leave town
-unless you have
-a magic shield.
+Estas danĝere
+forlasi la
+urbeton,/
+krom se vi
+havas magian
+ŝildon.
 
 ===
 
 
 #72:
-There is a magic
-hall outside
-town.
+Ekster la urbeto
+estas magia
+halo.
 
 ===
 
 
 #73:
-There is a magic
-cane which will
-give you magic
-power.
+Mi aŭdis pri
+magia vergo, kiu
+plifortigas vian
+magian potencon.
 
 ===
 
 
 #74:
-The door to the
-Capital town
-below is open.
-Go to it now.
+La pordo al la
+ĉefurbo super
+ni estas mal-
+fermita./
+Vi tuj iru tien.
 
 ===
 
 
 #75:
-It was only a
-rumor. Sorry
-about that./
-I got this armor
-in exchange for
-a bottle./
-If you wish,
-you can have it.
+Estas nur famo,
+mi badaŭras./
+Jen, mi ekhavis
+ĉi tiun kirason
+kontraŭ unu
+botelo./
+Vi havu ĝin,
+por repaciĝi.
 
 ===
 
 
 #76:
-I'll have a
-drink.
-Well...
-not yet.
+Ni trinku kune
+unu alian...
+Kio, eble poste?
 
 ===
 
 
 #77:
-Looks like
-I'm lost.
+ŝajnas ke
+mi vojeraris.
 
 ===
 
 
 #78:
-I'm lost.
-My magic
-does not work.
+Mi estas
+perdita.
+Mia magio ne
+funkcias.
 
 ===
 
 
 #79:
-It can be magic
-of justice
-or a magic of
-destruction./
-It all depends
-on who uses it.
+ĝi povas esti
+magio de justeco
+aŭ detruo./
+Dependas de tiu,
+kiu uzas ĝin.
 
 ===
 
@@ -1272,71 +1273,74 @@ powers.
 
 
 #7B:
-Magic of offence
-is effective,
-but it consumes
-power.
+Ataka magio
+estas efika,
+sed konsumas
+energion.
 
 ===
 
 
 #7C:
-When you hold
-the Dwarf's
-meteorite in
-your hand,/
-it will become
-Black Onyx with
-power inside.
+Kiam vi tenas
+la meteorito de
+la Nanoj en via
+mano,
+ĝi iĝas la
+potencan Nigran
+Onikson.
 
 ===
 
 
 #7D:
-If you go
-straight ahead,/
-you will get to
-the Tower of
-Mist./
-If you defeat
-the dwarf who
-lives in the
-Tower/
-and get the
-meteorite,
-come back here.
+Se vi iros rekte
+antaŭen, vi
+atingos la Turon
+de Nebulo./
+Post kiam vi
+venkis la Nanon,
+kiu loĝas tie,/
+prenu la meteo-
+riton kaj revenu
+ĉi tien.
 
 ===
 
 
 #7E:
-As long as there
-are crazed
-Dwarfs,/
-the deadly
-threat of the
-meteorite/
-will loom over
-the Elves./
-Use this key to
-open the next
-door to get to
-Conflate./
-Fight for the
-Elves.
+Dum ankoraŭ
+estas frenezitaj
+Nanoj,/
+la mortiga
+minaco de la
+meteorito anko-
+raŭ restas./
+Uzu ĉi tiun
+ŝlosilon por
+malfermi la
+apudan pordon/
+kaj ekiru al
+Conflate. Batalu
+por la Elfoj!
 
 ===
 
 
 #7F:
-I give keys to
-travelers like
-yourself./
-You have an
-"Ace" key,
-don't you?
+Mi nur donas
+ŝlosilojn al
+vojaĝantoj kiel
+vi mem./
+Sed vi jam ek-
+havis "Ace"-
+ŝlosilon, ĉu ne?
 
 ===
+
+######################################################
+###############       Conflate       #################
+######################################################
 
 
 #80:
