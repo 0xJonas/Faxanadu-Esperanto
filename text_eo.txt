@@ -1344,109 +1344,109 @@ havis "Ace"-
 
 
 #80:
-This is a
-trading town
-called
-Conflate.
+Tiu ĉi estas
+la komerca
+urbeto Conflate.
 
 ===
 
 
 #81:
-You'll find the
-legendary shield
-and helmet/
-in the World of
-Branch.
+Vi trovos la
+legendan batalan
+kaskon kaj
+kirason/
+en la Mondo de
+Branĉo.
 
 ===
 
 
 #82:
-The town is
-surrounded by
-doors for
-protection.
+Ni ĉirkaŭigis
+la urbeto per
+pordoj, por
+protekto.
 
 ===
 
 
 #83:
-When you get the
-shield and
-helmet, go to
-see the Guru.
+Post kiam vi ek-
+havis la kaskon
+kaj kirason,/
+renkontu la
+pastron
 
 ===
 
 
 #84:
-I am a guardian
-of the Guru.
-He is an im-
-portant person.
+Mi estas gardis-
+to de la pastro.
+Li estas grava
+persono.
 
 ===
 
 
 #85:
-There should be
-something you
-can get.
+La pastro volas
+doni iun al vi.
 
 ===
 
 
 #86:
-Don't rely on
-your magic power/
-during the final
-battle with the
-Dwarfs.
+Ne nur konfidu
+al via magia
+potenco/
+dum la fina
+batalo kontraŭ
+la Nanoj.
 
 ===
 
 
 #87:
-The town used to
-prosper from
-trading with the
-Dwarfs.
+La urbeto
+kutimis prosperi
+de komerci kun
+la Nanoj.
 
 ===
 
 
 #88:
-They are
-terrible now,/
-but they used to
-be skilled
-craftsmen.
+La Nanoj nun
+iĝis terura,/
+sed ili kutimis
+esti spertaj
+forĝistoj.
 
 ===
 
 
 #89:
-I used to go to
-the town of
-Dwarfs quite
-often/
-when we had
-business with
-them.
+Mi kutimis iri
+ofte al la
+Nanajn urbetojn,/
+kiam ni komercis
+kun ili.
 
 ===
 
 
 #8A:
-Do you want to
-know what I do?/
-I am
-the pickpocket
-Gingi./
-I'm an important
-person around
-here.
+ĉu vi volas
+scii kion mi
+faris?/
+Mi estas Gingi
+la poŝoŝte-
+listo./
+Mi estas grava
+individuo ĉi
+tie.
 
 ===
 
@@ -1475,30 +1475,37 @@ true peace here.
 
 
 #8C:
-Don't rely on
-your magic power/
-alone during the
-last fight
-against the
-Dwarfs./
-You can wear the
-Battle Helmet
-and Battle Suit/
-only when you
-have the Dragon
-Slayer./
-You will not be
-able to return
-us the Dragon
-Slayer/
-until we have
-true peace here./
-This ring will
-open the door to
-Dartmoor. Take
-it with you.
+Ne nur konfidu
+al via magia
+potenco/
+dum la fina
+batalo kontraŭ
+la Nanoj./
+Vi nur povas
+surmeti la
+batalan kaskon
+kaj kirason,/
+se vi havas la
+Drakmortiganton./
+Vi ne redonu al
+ni la Drak-
+mortiganton/
+antaŭ ol ni
+denove atingas
+veran pacon./
+Tiu ĉi ringo
+malfermos la
+pordon al Dart-
+moor./
+Bonvolu preni
+ĝin.
 
 ===
+
+######################################################
+###############       Daydreak       #################
+######################################################
+
 
 
 #8D:
