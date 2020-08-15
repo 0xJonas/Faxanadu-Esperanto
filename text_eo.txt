@@ -1507,116 +1507,121 @@ Bonvolu preni
 ######################################################
 
 
-
 #8D:
-Daydreak is a
-town at the
-border.
+Daydrake estas
+apudlima urbeto.
 
 ===
 
 
 #8E:
-I have friends
-in Dartmoor/
-which is known
-as an evil
-place.
+Mi konas amikojn
+en Dartmoor./
+Tiu urbeto
+situas en
+malbona loko.
 
 ===
 
 
 #8F:
-Look for the
-Battle Suit.
+Serĉu la
+batalan kirason.
 
 ===
 
 
 #90:
-Did you find the
-magic cane?
+ĉu vi trovis
+la magian
+vergon?
 
 ===
 
 
 #91:
-You are the
-famous warrior./
-You are as good
-looking as I've
-heard.
+Vi devas esti
+la fama
+batalanto./
+Vi estas tiel
+bela kiel mi
+aŭdis.
 
 ===
 
 
 #92:
-You are the
-warrior everyone
-is talking
-about./
-Could I have
-your autograph?/
-Are you busy
-now? Well, will
-you come to
-visit me?/
-My name is Moto.
-Please don't
-forget.
+Vi estas la fama
+batalanto, pri 
+kiu ĉiuj
+parolas./
+ĉu mi povus
+ekhavi vian
+aŭtografon?/
+ĉu vi aktuale
+estas okupita?/
+Nu, ĉu vi
+revenos por
+viziti min?/
+Mi nomiĝas Moto.
+Bonvolu ne
+forgesi tion.
 
 ===
 
 
 #93:
-Look at you!
-When did you
-last take a
-bath?
+Vidu vin mem!
+Kiam vi laste
+banis?
 
 ===
 
 
 #94:
-The Guru of
-Conflate has the
-Ring of Dwarfs.
+La pastro de
+Conflate havas
+la Ringon de
+Nanoj.
 
 ===
 
 
 #95:
-Did you get the
-Battle Suit?
+ĉu vi akiris
+la batalan
+kirason?
 
 ===
 
 
 #96:
-The castle of
-Dartmoor is a
-complex maze.
+La kastelo apud
+Dartmoor estas
+kompleksa
+labirinto.
 
 ===
 
 
 #97:
-Is this your
-first visit to
-this store?
-It is my first.
+ĉu tio estas
+via unua vizito
+al tiu ĉi
+vendejo?/
+Estas mia unua.
 
 ===
 
 
 #98:
-Have not seen
-you for a while.
-You'll find a
-magic cane/
-when you get
-above the tower
-of Pillar.
+Mi ne vidis vin
+dum iom tempo.
+Vi trovos la
+magian vergon/
+kiam vi vojaĝas
+super la ĉambro
+de la kolonoj.
 
 ===
 
@@ -1640,6 +1645,10 @@ fortress of
 Zenis.
 
 ===
+
+######################################################
+###############       Dartmoor       #################
+######################################################
 
 
 #9B:
