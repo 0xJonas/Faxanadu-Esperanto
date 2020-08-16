@@ -994,9 +994,9 @@ iras tien.
 
 #62:
 Se la meteorito
-solvas en akvo,
-estas kreata
-venenon,/
+solviĝas en
+akvo, estas
+kreata venenon,/
 kiu kaŭzos 
 malsanojn./
 ĉio komenciĝis
@@ -1485,10 +1485,10 @@ Vi nur povas
 surmeti la
 batalan kaskon
 kaj kirason,/
-se vi havas la
+se vi havas La
 Drakmortiganton./
 Vi ne redonu al
-ni la Drak-
+ni La Drak-
 mortiganton/
 antaŭ ol ni
 denove atingas
@@ -1573,7 +1573,7 @@ forgesi tion.
 #93:
 Vidu vin mem!
 Kiam vi laste
-banis?
+banis vin?
 
 ===
 
@@ -1652,139 +1652,136 @@ Zenis.
 
 
 #9B:
-Dragon Slayer is
-in the hands of
-king of the
-Dwarfs.
+La reĝo de la
+Nanoj tenas La
+Drakmortiganton.
 
 ===
 
 
 #9C:
-Defeat the Evil
-one with Dragon
-Slayer.
+Venku La 
+Malbonan per La
+Drakmortiganto.
 
 ===
 
 
 #9D:
-Go to see the
-Guru in the
-Castle of
-Fraternal.
+Renkontu la
+pastron en la
+Kastelo de
+Gefratoj
 
 ===
 
 
 #9E:
-If you see the
-Guru, he'll give
-you the Demon's
-Ring.
+Se vi renkontas
+pa pastron, li
+donos al vi la
+Demona Ringo.
 
 ===
 
 
 #9F:
-Search inside
-the castle.
-You should find
-a Guru.
+Serĉu interne en
+la Kastelo de
+Gefratoj./
+Vi devus trovi
+pastron.
 
 ===
 
 
 #A0:
-The magic of
-offence does not
-work against the
-Evil one.
+Provu uzi la
+magion de Tilt
+kontraŭ La
+Malbonan.
 
 ===
 
 
 #A1:
-The Dwarfs re-
-gard the meteor-
-ite as a cosmic
-messenger./
-It is a dreadful
-thing as you
-already know./
-It turns into a
-poison when
-dissolved in
-water./
-It is not incon-
-ceivable that/
-you would ex-
-perience mental
-and physical
-changes/
-when you are
-near or touch
-it./
-That is why the
-Dwarfs have
-changed and gone
-crazy.
+La Nanoj konsi-
+deras la meteo-
+roidon kiel
+kosma mesaĝanto./
+Ĝi estas terura
+objekto, kiel vi
+jam scias./
+Ĝi ŝangiĝas al
+veneno kiam ĝi
+solviĝas en
+akvo./
+Ne estas neeble
+ke vi spertos
+mensaj kaj
+fisikaj ŝanĝojn,/
+se vi proksi-
+miĝas aŭ tuŝas
+ĝin./
+Tial la Nanoj
+mutaciis kaj
+freneziĝis.
 
 ===
 
 
 #A2:
-The monster
-you've just de-
-feated is King
-Grieve,/
-the king of the
-Dwarfs. The Evil
-One changed his
-appearance./
-The king pro-
-tected the sword
-from the Evil
-One/
-by hiding it
-within his own
-body./
-Use the sword to
-defeat the Evil
-One in the
-fortress./
-This will open
-the door to the
-fortress.
+La drako, kiun
+vi ĵus venkis,
+estis Reĝo
+Grieve/
+la reĝo de la
+Nanoj. La
+Malbona mutaci-
+igis lin./
+Sed la reĝo
+savis la
+Drakmortiganton
+de La Malbona/
+per kaŝi ĝin
+interne sian
+propran korpon./
+Uzu tiun glavon
+por venki La
+Malbonan/
+en la Fortreso
+de Zenis. Ĉi tiu
+ringo malfermos
+la pordon.
 
 ===
 
 
 #A3:
-I'll meditate
-for you.
+Mi preĝas por
+vi.
 
 ===
 
 
 #A4:
-Glad to have you
-back safely./
-It will take
-time,
-but the Elves
-and the Dwarfs/
-will become
-friends and re-
-turn the peace
-to this land/
-as it used to
-be. I understand
-you will leave/
-to continue your
-journey.
-What a restless
-guy!
+Mi ĝojas car
+vi sane revenas
+hejmen./
+Daŭros, sed la
+Elfoj kaj la
+Nanoj fine iĝos
+amikojn denove/
+kaj paco revenos
+al la mondarbon,
+kiel ĉio
+kutimis esti./
+Mi komprenas, ke
+vi volas forla-
+siĝi por daŭriĝi
+vian vojaĝon./
+Kia senripoza
+viro!
 
 ===
 
