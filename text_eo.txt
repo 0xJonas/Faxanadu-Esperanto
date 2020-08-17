@@ -9,15 +9,17 @@ would you like?
 
 
 #02:
-Thank you
-for shopping.
+Dankon!
+Bonvolu reveni
+baldaŭ.
 
 ===
 
 
 #03:
-This is not
-enough Golds.
+Tiom ne estas
+sufiĉe da
+orpecojn.
 
 ===
 
@@ -35,91 +37,97 @@ Come back again.
 
 
 #06:
-You can't carry
-any more.
+Vi ne povas
+porti pli.
 
 ===
 
 
 #07:
-Dried meat to
-bring energy
-for 50 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+50 orpecoj?
 
 ===
 
 
 #08:
-Dried meat to
-bring energy
-for 150 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+150 orpecoj?
 
 ===
 
 
 #09:
-Dried meat to
-bring energy
-for 180 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+180 orpecoj?
 
 ===
 
 
 #0A:
-Dried meat to
-bring energy
-for 250 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+250 orpecoj?
 
 ===
 
 
 #0B:
-Dried meat to
-bring energy
-for 350 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+350 orpecoj?
 
 ===
 
 
 #0C:
-Dried meat to
-bring energy
-for 500 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+500 orpecoj?
 
 ===
 
 
 #0D:
-Dried meat to
-bring energy
-for 800 Golds.
+Ĉu vi volas
+iom da sekigita
+viandon kontraŭ
+800 orpecoj?
 
 ===
 
 
 #0E:
-Hello.
-I sell keys.
-What
-would you like?
+Saluton. Mi
+vendas ŝlosi-
+lojn. Kion vi
+bezonas?
 
 ===
 
 
 #0F:
-Hello.
-I sell tools.
-What
-would you like?
+Saluton. Mi
+vendas ilojn.
+Kion vi bezonas?
 
 ===
 
 
 #10:
-Come here
-to buy.
-Come here
-to sell.
+Mi volas
+aĉeti ion.
+Mi volas
+vendi ion.
 
 ===
 
@@ -132,22 +140,22 @@ have a key.
 
 
 #12:
-You have
-nothing to buy.
+Vi havas nenion
+por aĉeti.
 
 ===
 
 
 #13:
-Which one would
-like to sell?
+Kiun vi ŝatus
+vendi?
 
 ===
 
 
 #14:
-What
-would you like?
+Kion vi ŝatus
+aĉeti?
 
 ===
 
@@ -162,7 +170,7 @@ magio kontraŭ
 
 
 #16:
-ĉiam kontrolu
+Ĉiam kontrolu
 vian restan
 potencon.
 
@@ -170,23 +178,26 @@ potencon.
 
 
 #17:
-Do you know the
-magic of fire?
-I'll teach you
-for 3000 Golds.
+Ĉu vi scias la
+magion de fajro?
+Mi povas instrui
+ĝin al vi/
+kontraŭ 3000
+orpecoj.
 
 ===
 
 
 #18:
-Don't rely too
-much on magic.
+Ne tro multe
+konfidi al
+magion.
 
 ===
 
 
 #19:
-ĉu vi volas
+Ĉu vi volas
 lecionon de la
 arto de batalo
 po 200 orpecoj?
@@ -195,8 +206,8 @@ po 200 orpecoj?
 
 
 #1A:
-Do you want
-a treatment?
+Ĉu vi volas
+kuracon?
 
 ===
 
@@ -209,72 +220,77 @@ vin.
 
 
 #1C:
-It is 250 Golds
-,please.
+Tio kostus
+250 orpecojn,
+mi petas.
 
 ===
 
 
 #1D:
-It is 500 Golds
-,please.
+Tio kostus
+500 orpecojn,
+mi petas.
 
 ===
 
 
 #1E:
-It is 1000 Golds
-,please.
+Tio kostus
+1000 orpecojn,
+mi petas.
 
 ===
 
 
 #1F:
-It is 2500 Golds
-,please.
+Tio kostus
+2500 orpecojn,
+mi petas.
 
 ===
 
 
 #20:
-It is 1800 Golds
-,please.
+Tio kostus
+1800 orpecojn,
+mi petas.
 
 ===
 
 
 #21:
-It is 3000 Golds
-,please.
+Tio kostus
+3000 orpecojn,
+mi petas.
 
 ===
 
 
 #22:
-You need peace
-of mind.
-I will meditate
-with you.
+Vi bezonas
+kvietigi vian
+menson. Ni
+meditu iomete.
 
 ===
 
 
 #23:
-I shall give you
-a title.
+Mi donu al vi
+novan rangon.
 '~'/
-Make sure you
-live up to it.
+Certigu vin, ke
+vi meritis ĝin.
 
 ===
 
 
 #24:
-Don't have
-negative
-thoughts./
-Remember
-your mantra.
+Ne havu nega-
+tivajn pensojn.
+Rememoru vian
+mantron.
 
 ===
 
@@ -1671,7 +1687,7 @@ Drakmortiganto.
 Renkontu la
 pastron en la
 Kastelo de
-Gefratoj
+Gefratoj.
 
 ===
 
@@ -1750,9 +1766,9 @@ Uzu tiun glavon
 por venki La
 Malbonan/
 en la Fortreso
-de Zenis. Ĉi tiu
-ringo malfermos
-la pordon.
+de Zenith. Tiu
+ĉi ringo malfer-
+mos la pordon.
 
 ===
 
@@ -1766,7 +1782,7 @@ vi.
 
 #A4:
 Mi ĝojas car
-vi sane revenas
+vi sane revenis
 hejmen./
 Daŭros, sed la
 Elfoj kaj la
@@ -1778,8 +1794,9 @@ kiel ĉio
 kutimis esti./
 Mi komprenas, ke
 vi volas forla-
-siĝi por daŭriĝi
-vian vojaĝon./
+si nin/
+por daŭriĝi 
+vian vojaĝon.
 Kia senripoza
 viro!
 
