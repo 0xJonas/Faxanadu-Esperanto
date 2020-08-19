@@ -342,7 +342,7 @@ de Apolune.
 #29
 Estas signo de
 "Jack" apud la
-ŝlosiltruo.# ???
+ŝlosiltruo.
 
 ===
 
@@ -842,8 +842,8 @@ origina fonto.
 
 #56:
 Se vi ne havas
-Joker-an ŝlo-
-silon, revenu
+"Joker" ŝlosi-
+lon, revenu
 tien.
 
 ===
@@ -1216,7 +1216,7 @@ halo.
 
 #73:
 Mi aŭdis pri
-magia vergo, kiu
+Magia Vergo, kiu
 plifortigas vian
 magian potencon.
 
@@ -1369,9 +1369,9 @@ urbeto Conflate.
 
 #81:
 Vi trovos la
-legendan batalan
-kaskon kaj
-kirason/
+legendan Batalan
+Kaskon kaj
+Kirason/
 en la Mondo de
 Branĉo.
 
@@ -1389,8 +1389,8 @@ protekto.
 
 #83:
 Post kiam vi ek-
-havis la kaskon
-kaj kirason,/
+havis la Kaskon
+kaj Kirason,/
 renkontu la
 pastron
 
@@ -1499,8 +1499,8 @@ batalo kontraŭ
 la Nanoj./
 Vi nur povas
 surmeti la
-batalan kaskon
-kaj kirason,/
+Batalan Kaskon
+kaj Kirason,/
 se vi havas La
 Drakmortiganton./
 Vi ne redonu al
@@ -1542,15 +1542,15 @@ malbona loko.
 
 #8F:
 Serĉu la
-batalan kirason.
+Batalan Kirason.
 
 ===
 
 
 #90:
 ĉu vi trovis
-la magian
-vergon?
+la Magian
+Vergon?
 
 ===
 
@@ -1605,8 +1605,8 @@ Nanoj.
 
 #95:
 ĉu vi akiris
-la batalan
-kirason?
+la Batalan
+Kirason?
 
 ===
 
@@ -1634,7 +1634,7 @@ Estas mia unua.
 Mi ne vidis vin
 dum iom tempo.
 Vi trovos la
-magian vergon/
+Magian Vergon/
 kiam vi vojaĝas
 super la ĉambro
 de la kolonoj.
@@ -1804,213 +1804,216 @@ viro!
 
 
 #A5:
-There is the
-mark of "Queen"
-by the key hole.
+Estas signo de
+"Queen" apud la
+ŝlosiltruo.
 
 ===
 
 
 #A6:
-There is the
-mark of "King"
-by the key hole.
+Estas signo de
+"King" apud la
+ŝlosiltruo.
 
 ===
 
 
 #A7:
-There is the
-mark of "Ace"
-by the key hole.
+Estas signo de
+"Ace" apud la
+ŝlosiltruo.
 
 ===
 
 
 #A8:
-There is the
-mark of "Joker"
-by the key hole.
+Estas signo de
+"Joker" apud la
+ŝlosiltruo.
 
 ===
 
 
 #A9:
-Do you need
-a ring
-to open a door?
+La pordo estis
+sigelita per
+magia ringo.
 
 ===
 
 
 #AA:
-I've used
-Red Potion.
+Mi uzis Ruĝan
+Trinkaĵon.
 
 ===
 
 
 #AB:
-I've used
-Mattock.
+Mi uzis Pik-
+pioĉon.
 
 ===
 
 
 #AC:
-I've used
-Hour Glass.
+Mi uzis Sablo-
+horloĝon.
 
 ===
 
 
 #AD:
-I've used
-Wing Boots.
+Mi uzis
+Flugantajn
+Botojn.
 
+#FlugantajBotoj
 ===
 
 
 #AE:
-I've used key.
+Mi uzis ŝlo-
+silon.
 
 ===
 
 
 #AF:
-I've used
-Elixir.
+Mi uzis Elik-
+siron.
 
 ===
 
 
 #B0:
-I'm holding
-Elixir.
+Mi ekhavis
+Eliksiron.
 
 ===
 
 
 #B1:
-I'm holding
-Red Potion.
+Mi ekhavis
+Ruĝan Trinkaĵon.
 
 ===
 
 
 #B2:
-I'm holding
-Mattock.
+Mi ekhavis
+Pikpioĉon
 
 ===
 
 
 #B3:
-I'm holding
-Wing Boots.
+Mi ekhavis
+Flugantajn
+Botojn.
 
 ===
 
 
 #B4:
-I'm holding
-Hour Glass.
+Mi ekhavis
+Sablohorloĝon.
 
 ===
 
 
 #B5:
-I've got
-the Battle Suit.
+Mi trovis la
+Batalan Kirason.
 
 ===
 
 
 #B6:
-I've got the
-Battle Helmet.
+Mi trovis la
+Batalan Kaskon.
 
 ===
 
 
 #B7:
-I've got the
-Dragon Slayer.
+Mi trovis La
+Drakmortiganton.
 
 ===
 
 
 #B8:
-I've got
-the Black Onyx.
+Mi trovis la
+Nigran Onikson.
 
 ===
 
 
 #B9:
-I've got
-the Pendant.
+Ho ne! La
+Stultula Koli-
+ero!
 
 ===
 
 
 #BA:
-I've got the
-Magical Rod.
+Mi trovis la
+Magian Vergon.
 
 ===
 
 
 #BB:
-I've touched
-Poison.
+Mi tuŝis
+venenon!
 
 ===
 
 
 #BC:
-The glove
-increases
-offensive power.
+La ganto pli-
+fortigas min.
 
 ===
 
 
 #BD:
-The power of
-the Glove
-is gone.
+La efiko de
+la ganto mal-
+aperis.
 
 ===
 
 
 #BE:
-I am free from
-injury because
-of the ointment.
+La Oleo protek-
+tas min kontraŭ
+vundoj.
 
 ===
 
 
 #BF:
-The power of
-the ointment
-is gone.
+La efiko de la
+Oleo malaperis.
 
 ===
 
 
 #C0:
-The power of
-the Wing Boots
-is gone.
+La efiko de la
+Flugantaj
+Botoj malaperis.
 
 ===
 
 
 #C1:
-The power of
-the Hour Glass
-is gone.
+La efiko de la
+Sablohorloĝo
+malaperis.
 
 ===
