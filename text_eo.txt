@@ -789,7 +789,7 @@ posedas flug-
 antajn botojn./
 Post kiam vi
 ekhavis ilin,
-serĉi la fonton
+serĉu la fonton
 en la ĉielo.
 
 ===
@@ -802,7 +802,7 @@ puto,/
 vi trovos la
 vojon al Mascon,/
 sed vi bezonas
-la Ringo de
+la Ringon de
 Rubeno.
 
 ===
@@ -1248,7 +1248,7 @@ por repaciĝi.
 
 #76:
 Ni trinku kune
-unu alian...
+unu plia...
 Kio, eble poste?
 
 ===
@@ -1299,7 +1299,7 @@ energion.
 
 #7C:
 Kiam vi tenas
-la meteorito de
+la meteoriton de
 la Nanoj en via
 mano,
 ĝi iĝas la
@@ -1361,7 +1361,7 @@ havis "Ace"-
 
 #80:
 Tiu ĉi estas
-la komerca
+la komercada
 urbeto Conflate.
 
 ===
@@ -1392,7 +1392,7 @@ Post kiam vi ek-
 havis la Kaskon
 kaj Kirason,/
 renkontu la
-pastron
+pastron.
 
 ===
 
@@ -1694,7 +1694,7 @@ Gefratoj.
 
 #9E:
 Se vi renkontas
-pa pastron, li
+la pastron, li
 donos al vi la
 Demona Ringo.
 
@@ -1756,7 +1756,7 @@ Nanoj. La
 Malbona mutaci-
 igis lin./
 Sed la reĝo
-savis la
+savis La
 Drakmortiganton
 de La Malbona/
 per kaŝi ĝin
@@ -1774,7 +1774,7 @@ mos la pordon.
 
 
 #A3:
-Mi preĝas por
+Mi meditas por
 vi.
 
 ===
