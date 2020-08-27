@@ -342,7 +342,7 @@ de Apolune.
 #29
 Estas signo de
 "Jack" apud la
-ŝlosiltruo.
+seruro.
 
 ===
 
@@ -1237,7 +1237,7 @@ Vi tuj iru tien.
 Estas nur famo,
 mi badaŭras./
 Jen, mi ekhavis
-ĉi tiun kirason
+ĉi tiun armaĵon
 kontraŭ unu
 botelo./
 Vi havu ĝin,
@@ -1371,7 +1371,7 @@ urbeto Conflate.
 Vi trovos la
 legendan Batalan
 Kaskon kaj
-Kirason/
+Armaĵon/
 en la Mondo de
 Branĉo.
 
@@ -1390,7 +1390,7 @@ protekto.
 #83:
 Post kiam vi ek-
 havis la Kaskon
-kaj Kirason,/
+kaj Armaĵon,/
 renkontu la
 pastron.
 
@@ -1500,7 +1500,7 @@ la Nanoj./
 Vi nur povas
 surmeti la
 Batalan Kaskon
-kaj Kirason,/
+kaj Armaĵon,/
 se vi havas La
 Drakmortiganton./
 Vi ne redonu al
@@ -1542,7 +1542,7 @@ malbona loko.
 
 #8F:
 Serĉu la
-Batalan Kirason.
+Batalan Armaĵon.
 
 ===
 
@@ -1606,7 +1606,7 @@ Nanoj.
 #95:
 ĉu vi akiris
 la Batalan
-Kirason?
+Armaĵon?
 
 ===
 
@@ -1806,7 +1806,7 @@ viro!
 #A5:
 Estas signo de
 "Queen" apud la
-ŝlosiltruo.
+seruro.
 
 ===
 
@@ -1814,7 +1814,7 @@ Estas signo de
 #A6:
 Estas signo de
 "King" apud la
-ŝlosiltruo.
+seruro.
 
 ===
 
@@ -1822,7 +1822,7 @@ Estas signo de
 #A7:
 Estas signo de
 "Ace" apud la
-ŝlosiltruo.
+seruro.
 
 ===
 
@@ -1830,7 +1830,7 @@ Estas signo de
 #A8:
 Estas signo de
 "Joker" apud la
-ŝlosiltruo.
+seruro.
 
 ===
 
@@ -1925,7 +1925,7 @@ Sablohorloĝon.
 
 #B5:
 Mi trovis la
-Batalan Kirason.
+Batalan Armaĵon.
 
 ===
 
